@@ -621,7 +621,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #DFFF00;
+		background: #40E0D0; /* turquoise */
 		color: #39454b;
 		padding: 2em;
 	}
