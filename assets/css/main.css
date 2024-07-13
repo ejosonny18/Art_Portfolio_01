@@ -621,7 +621,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: rgba(64, 224, 208, 0.5); /* Semi-transparent turquoise */
+		background: rgba(64, 224, 208, 0.80); /* Semi-transparent turquoise */
 		color: #39454b;
 		padding: 2em;
 	}
