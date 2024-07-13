@@ -91,7 +91,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: ##FF7F50;
 		height: 100%;
 		min-width: 320px;
 	}
@@ -621,7 +621,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
+		background: ##FF7F50;
 		color: #39454b;
 		padding: 2em;
 	}
