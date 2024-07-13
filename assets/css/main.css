@@ -333,12 +333,12 @@ input, select, textarea {
 
 	@-moz-keyframes overlay-hide {
 		0% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
 		15% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
@@ -355,12 +355,12 @@ input, select, textarea {
 
 	@-webkit-keyframes overlay-hide {
 		0% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
 		15% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
@@ -377,12 +377,12 @@ input, select, textarea {
 
 	@-ms-keyframes overlay-hide {
 		0% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
 		15% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
@@ -399,12 +399,12 @@ input, select, textarea {
 
 	@keyframes overlay-hide {
 		0% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
 		15% {
-			opacity: 1;
+			opacity: 0;
 			z-index: 100000;
 		}
 
