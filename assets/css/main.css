@@ -1315,16 +1315,6 @@ input, select, textarea {
 			margin: -32px 0 0 0;
 		}
 
-		.poptrox-popup:hover .nav-next,
-		.poptrox-popup:hover .nav-previous {
-			opacity: 0.5;
-		}
-
-		.poptrox-popup:hover .nav-next:hover,
-		.poptrox-popup:hover .nav-previous:hover {
-			opacity: 1.0;
-		}
-
 		.poptrox-popup .nav-previous:before {
 			-moz-transform: scaleX(-1);
 			-webkit-transform: scaleX(-1);
