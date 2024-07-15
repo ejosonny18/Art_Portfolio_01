@@ -1316,13 +1316,13 @@ input, select, textarea {
 		}
 
  		}
-		.poptrox-popup:none .nav-next,
-		.poptrox-popup:none .nav-previous {
+		.poptrox-popup:hover .nav-next,
+		.poptrox-popup:hover .nav-previous {
 			opacity: 0.5;
 		}
 
-		.poptrox-popup:none .nav-next:none,
-		.poptrox-popup:none .nav-previous:none {
+		.poptrox-popup:hover .nav-next:hover,
+		.poptrox-popup:hover .nav-previous:hover {
 			opacity: 1.0;
 		}
 
